@@ -27,27 +27,39 @@ Hotline chung: 0856.87.88.89
 - Quà tặng chung: Hỗ trợ cài đặt từ điển, font chữ tiếng Việt, tải app (Savi, Kindle, Google Play) miễn phí.
 
 ---
+*Khi trả lời khách về bất kỳ dòng sản phẩm nào, câu cuối sau tư vấn hãy cho đoạn tư vẫn này, ưu tiên cho vào POLICY tiếp đến là PRODUCT*
+==== AKISHOP CAM KẾT ====
+- Bảo hành 12 tháng 
 
+- Cài đặt MIỄN PHÍ các bộ từ điển (Anh - Việt, Việt - Anh, Nhật - Việt, Việt - Nhật, Đức - Việt, Việt - Đức, Trung - Việt...)
+
+- Hỗ trợ tìm kiếm sách theo yêu cầu cho Khách hàng
+
+- Hỗ trợ kỹ thuật và sử dụng phần mềm trọn đời.
 # THÔNG TIN & BẢNG GIÁ SẢN PHẨM (Dùng cho Intent PRODUCT & PRICE)
 *Lưu ý cho tư vấn viên: Tất cả máy tại Akishop đều hỗ trợ tiếng Việt đầy đủ (font chữ, giao diện). Màn hình đều là E-ink mực điện tử không ánh sáng xanh, không hại mắt. Cài được tài liệu từ bên ngoài.*
-
+================
 [SẢN PHẨM] SAVI SERIES - DÒNG MÁY QUỐC DÂN GIÁ RẺ
 - SAVI 6 (Bản đặc biệt): Màn hình 6 inch, nút nguồn đỏ dành riêng cho người Việt. Giá ưu đãi: 4.990.000đ (Giá NY: 5.990.000đ). Tặng kèm kho sách VIP trên app Savi trị giá 990k.
 - SAVI 6S: Màn hình 6 inch lõm, thiết kế nhỏ gọn nhẹ nhất, trải nghiệm đọc chân thật. Giá ưu đãi: 3.390.000đ (Giá NY: 4.390.000đ). Tặng kèm gói sách bản quyền Savi Premium 690k.
-
+================
 [SẢN PHẨM] BOOX GO SERIES - THIẾT KẾ MỎNG NHẸ
 - Boox Go 10.3 Gen 2: Màn hình 10.3 inch đen trắng. Máy ghi chú mỏng nhẹ nhất của Boox. Hỗ trợ bút ghi chú cảm giác như trên giấy. Giá ưu đãi: 12.390.000đ. Mua kèm cover giảm 100k.
 - Boox Go 10.3 Gen 2 Lumi: Giống hệt Gen 2 nhưng có thêm công nghệ đèn nền Lumi sáng đều, thân thiện mắt hơn. Giá ưu đãi: 13.390.000đ.
 - Boox Go Color 7 Gen 2: Màn hình 7 inch có màu. Có nút bấm chuyển trang vật lý tiện lợi. Giá ưu đãi: 8.390.000đ (Giá NY: 9.990.000đ). Mua kèm bao da giảm 100k.
 - Boox Go 7: Màn hình 7 inch đen trắng. Bán chạy nhất phân khúc 7 inch. Cầm một tay dễ dàng, có nút vật lý, hỗ trợ tùy chọn bút viết. Giá ưu đãi: 7.590.000đ (Giá NY: 8.790.000đ).
 - Boox Go 6: Phiên bản 6 inch màu trắng. Giá ưu đãi: 4.590.000đ (Giá NY: 5.390.000đ).
+- Boox Max Lumi 2: Giá 19.990.000đ ƯU ĐÃI VÀ QUÀ TẶNG: - Mua Ebook bản quyền với giá ưu đãi qua ứng dụng Savi, hiệu suất mạnh mẽ, được thiết kế để sử dụng một cách chuyên nghiệp.
+Được trang bị những công nghệ cao cấp nhất, Màn hình lớn 13,3 '' với mực Carta 1250 mới được tạo ra để hiển thị các tệp và văn bản có kích thước A4 một cách rõ ràng. Pin dồi dào
+4300mAh có thể kéo dài hàng tuần chỉ với một lần sạc. Bộ nhớ RAM 6GB và bộ nhớ ROM 128GB cung cấp không gian rộng rãi cho các bài luận, báo cáo và ghi chú của bạn. Cùng các công nghệ LPDDR4X và UFS 2.1 tiên tiến giúp tải các tệp tin nhanh chóng và an toàn.
 
+===============
 [SẢN PHẨM] BOOX NOTE & TAB SERIES - MÀN HÌNH LỚN, CẤU HÌNH CAO
 - Boox Note Air 5 C: Màn hình màu 10.3 inch cao cấp. Thiết kế sang trọng. Đọc sách, ghi chú chuyên nghiệp, chạy Android mới nhất, tải app học tập/văn phòng. Giá ưu đãi: 14.590.000đ (Giá NY: 16.590.000đ). Mua kèm cover giảm 100k.
 - Boox Note Air 4 C: Màn hình màu 10.3 inch thế hệ trước. Giá ưu đãi: 14.390.000đ (Giá NY: 16.390.000đ).
 - Boox Note Max: Dòng máy 13.3 inch màn hình siêu lớn, đọc PDF chuyên ngành/bản vẽ. Giá: 18.590.000đ.
 - Boox Tab X C: Cấu hình mạnh nhất, thay thế tablet. Giá: 22.390.000đ.
-
+===============
 [SẢN PHẨM] BOOX PALMA SERIES - TỶ LỆ MÀN HÌNH ĐIỆN THOẠI
 - Boox Palma 2 Pro: Màn hình 6.13 inch nhỏ gọn như smartphone, bỏ túi quần dễ dàng. Nâng cấp 8GB RAM, chạy Android 15, có màu, có khe cắm SIM 4G, hỗ trợ bút ghi chú (mua rời). Giá: 10.790.000đ (Giá NY: 12.790.000đ).
 - Boox Palma 2: Bản tiêu chuẩn, màn đen trắng. Giá: 7.790.000đ (Giá NY: 9.790.000đ).
