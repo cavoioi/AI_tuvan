@@ -1,0 +1,18 @@
+[theme]
+# Ép mặc định giao diện nền sáng (Light Mode)
+base = "light"
+
+# Đổi màu chủ đạo (nút bấm, thanh cuộn, thanh loading...) sang màu cam của Akishop
+primaryColor = "#F07021"
+
+# Màu nền chính của ứng dụng
+backgroundColor = "#FFFFFF"
+
+# Màu nền phụ (cho các khu vực như sidebar hoặc khối input)
+secondaryBackgroundColor = "#F0F4F9"
+
+# Màu chữ mặc định
+textColor = "#1F1F1F"
+
+# Font chữ mặc định (sans serif để hiện đại)
+font = "sans serif"

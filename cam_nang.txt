@@ -1,0 +1,85 @@
+# THÔNG TIN CỬA HÀNG & CHÍNH SÁCH AKISHOP (Dùng cho Intent POLICY)
+==== THÔNG TIN CỬA HÀNG ====
+Tên: Akishop — Hệ thống phân phối máy đọc sách số 1 Việt Nam
+Địa chỉ web: akishop.com.vn
+Giờ làm việc: 9h–21h tất cả các ngày
+Hotline chung: 0856.87.88.89
+
+Địa chỉ hệ thống cửa hàng:
+• Tại Hà Nội:
+- 71 Nguyễn Phong Sắc, Cầu Giấy. Hotline: 0974888717
+- 136 Tôn Đức Thắng, Ô Chợ Dừa. Hotline: 0334176893
+- 500 Trần Khát Chân, Hai Bà Trưng. Hotline: 0866176500
+- Tầng 1 TTTM AEON MALL Hà Đông. Hotline: 0396924602
+• Tại Hải Phòng:
+- Lô W103 tầng 1, Aeon Mall Hải Phòng, 10 Võ Nguyên Giáp. Hotline: 0844888717
+• Tại TP.HCM:
+- Akishop Quận 7: 310 Huỳnh Tấn Phát. Hotline: 0336546800
+- Akishop Quận 10: 521BIS Cách Mạng Tháng 8. Hotline: 0862726093
+- Akishop Bình Thạnh: 2Y Đinh Bộ Lĩnh. Hotline: 0774888717
+- Akishop Thủ Đức: 100 Tô Ngọc Vân. Hotline: 0764491367
+
+==== CHÍNH SÁCH MUA HÀNG ====
+- Bảo hành: 12 tháng chính hãng.
+- Đổi trả: 7 ngày nếu có lỗi do nhà sản xuất.
+- Thanh toán: Tiền mặt, chuyển khoản, quẹt thẻ. Hỗ trợ trả góp 0%.
+- Vận chuyển: Miễn phí giao hàng toàn quốc cho đơn từ 500.000đ.
+- Quà tặng chung: Hỗ trợ cài đặt từ điển, font chữ tiếng Việt, tải app (Savi, Kindle, Google Play) miễn phí.
+
+---
+
+# THÔNG TIN & BẢNG GIÁ SẢN PHẨM (Dùng cho Intent PRODUCT & PRICE)
+*Lưu ý cho tư vấn viên: Tất cả máy tại Akishop đều hỗ trợ tiếng Việt đầy đủ (font chữ, giao diện). Màn hình đều là E-ink mực điện tử không ánh sáng xanh, không hại mắt. Cài được tài liệu từ bên ngoài.*
+
+[SẢN PHẨM] SAVI SERIES - DÒNG MÁY QUỐC DÂN GIÁ RẺ
+- SAVI 6 (Bản đặc biệt): Màn hình 6 inch, nút nguồn đỏ dành riêng cho người Việt. Giá ưu đãi: 4.990.000đ (Giá NY: 5.990.000đ). Tặng kèm kho sách VIP trên app Savi trị giá 990k.
+- SAVI 6S: Màn hình 6 inch lõm, thiết kế nhỏ gọn nhẹ nhất, trải nghiệm đọc chân thật. Giá ưu đãi: 3.390.000đ (Giá NY: 4.390.000đ). Tặng kèm gói sách bản quyền Savi Premium 690k.
+
+[SẢN PHẨM] BOOX GO SERIES - THIẾT KẾ MỎNG NHẸ
+- Boox Go 10.3 Gen 2: Màn hình 10.3 inch đen trắng. Máy ghi chú mỏng nhẹ nhất của Boox. Hỗ trợ bút ghi chú cảm giác như trên giấy. Giá ưu đãi: 12.390.000đ. Mua kèm cover giảm 100k.
+- Boox Go 10.3 Gen 2 Lumi: Giống hệt Gen 2 nhưng có thêm công nghệ đèn nền Lumi sáng đều, thân thiện mắt hơn. Giá ưu đãi: 13.390.000đ.
+- Boox Go Color 7 Gen 2: Màn hình 7 inch có màu. Có nút bấm chuyển trang vật lý tiện lợi. Giá ưu đãi: 8.390.000đ (Giá NY: 9.990.000đ). Mua kèm bao da giảm 100k.
+- Boox Go 7: Màn hình 7 inch đen trắng. Bán chạy nhất phân khúc 7 inch. Cầm một tay dễ dàng, có nút vật lý, hỗ trợ tùy chọn bút viết. Giá ưu đãi: 7.590.000đ (Giá NY: 8.790.000đ).
+- Boox Go 6: Phiên bản 6 inch màu trắng. Giá ưu đãi: 4.590.000đ (Giá NY: 5.390.000đ).
+
+[SẢN PHẨM] BOOX NOTE & TAB SERIES - MÀN HÌNH LỚN, CẤU HÌNH CAO
+- Boox Note Air 5 C: Màn hình màu 10.3 inch cao cấp. Thiết kế sang trọng. Đọc sách, ghi chú chuyên nghiệp, chạy Android mới nhất, tải app học tập/văn phòng. Giá ưu đãi: 14.590.000đ (Giá NY: 16.590.000đ). Mua kèm cover giảm 100k.
+- Boox Note Air 4 C: Màn hình màu 10.3 inch thế hệ trước. Giá ưu đãi: 14.390.000đ (Giá NY: 16.390.000đ).
+- Boox Note Max: Dòng máy 13.3 inch màn hình siêu lớn, đọc PDF chuyên ngành/bản vẽ. Giá: 18.590.000đ.
+- Boox Tab X C: Cấu hình mạnh nhất, thay thế tablet. Giá: 22.390.000đ.
+
+[SẢN PHẨM] BOOX PALMA SERIES - TỶ LỆ MÀN HÌNH ĐIỆN THOẠI
+- Boox Palma 2 Pro: Màn hình 6.13 inch nhỏ gọn như smartphone, bỏ túi quần dễ dàng. Nâng cấp 8GB RAM, chạy Android 15, có màu, có khe cắm SIM 4G, hỗ trợ bút ghi chú (mua rời). Giá: 10.790.000đ (Giá NY: 12.790.000đ).
+- Boox Palma 2: Bản tiêu chuẩn, màn đen trắng. Giá: 7.790.000đ (Giá NY: 9.790.000đ).
+
+[SẢN PHẨM] AMAZON KINDLE
+- New Kindle 2024: Dòng Basic mới nhất. 6 inch nhỏ gọn. Ưu điểm: Bộ nhớ 16GB, pin cực trâu lên đến hàng tuần. Đọc sách thuần túy, mượt mà. Giá ưu đãi: 3.790.000đ – 4.190.000đ. Mua kèm bao da giảm 100k.
+
+---
+
+# SO SÁNH SẢN PHẨM (Dùng cho Intent COMPARE)
+[SO SÁNH] BOOX VÀ KINDLE
+- Boox: Chạy hệ điều hành Android mở, cài được nhiều app như điện thoại (Savi, Kindle, Google Play, trình duyệt web). Phù hợp người thích vọc vạch, đọc đa nền tảng hoặc cần ghi chú.
+- Kindle: Hệ điều hành đóng, thuần túy để đọc sách. Ưu điểm là pin cực kỳ trâu (vài tuần), độ bền cao, thao tác cực kỳ đơn giản. Phù hợp người chỉ muốn tập trung đọc sách, không xao nhãng.
+
+[SO SÁNH] BOOX GO 10.3 GEN 2 VÀ GO 10.3 LUMI
+Cả hai đều là dòng 10.3 inch ghi chú mỏng nhẹ. Điểm khác biệt duy nhất là bản Lumi được trang bị thêm hệ thống đèn nền phía trước (Front-light) giúp đọc tốt trong điều kiện thiếu sáng hoặc ban đêm, trong khi bản Gen 2 thường không có đèn nền (cần ánh sáng ngoài như sách giấy).
+
+---
+
+# KỊCH BẢN XỬ LÝ GIAO TIẾP & PHẢN ĐỐI (Dùng cho OBJECTION & FOLLOWUP)
+[KỊCH BẢN] Khách không biết chọn dòng nào:
+Phân loại giúp khách: "Dạ sản phẩm bên em chủ yếu chia làm 2 loại: Máy thuần đọc (6-7 inch, nhỏ gọn) và Máy kiêm sổ điện tử (10.3-13.3 inch, có bút ghi chú). Bình thường anh/chị hay đọc sách chữ, hay đọc PDF/truyện tranh ạ?"
+
+[KỊCH BẢN] Xử lý phản đối về Giá (Khách chê đắt):
+TUYỆT ĐỐI KHÔNG HẠ XUỐNG GIỚI THIỆU MÁY RẺ HƠN NGAY LẬP TỨC. Phải bảo vệ sản phẩm đang tư vấn.
+Cách nói: "Dạ em hiểu ạ. Tuy nhiên mức giá này rất xứng đáng vì máy sử dụng màn hình E-ink mực điện tử bảo vệ mắt tuyệt đối, độ bền cao dùng được nhiều năm. Bên em cũng đang có chương trình hỗ trợ trả góp 0% qua thẻ tín dụng và tặng kèm app sách bản quyền, giúp mình chia nhỏ chi phí rất dễ dàng ạ."
+
+[KỊCH BẢN] Khách do dự, muốn suy nghĩ thêm:
+Cách nói: "Dạ vâng không sao ạ. Đầu tư một chiếc máy bảo vệ mắt là quyết định quan trọng. Nếu tiện, em mời anh/chị ghé trực tiếp showroom Akishop để tự tay trải nghiệm máy nhé. Trăm nghe không bằng một thấy ạ. Anh/chị cho em xin số điện thoại để em gửi định vị cửa hàng gần nhất qua Zalo cho mình nha!"
+
+[KỊCH BẢN] Khách lo ngại ánh sáng xanh / hại mắt:
+Cách nói: "Dạ anh/chị yên tâm, máy đọc sách sử dụng công nghệ mực điện tử (E-ink), các hạt mực vật lý nổi lên trên bề mặt nên hoàn toàn không phát ra ánh sáng xanh như điện thoại hay iPad. Nó an toàn cho mắt như tờ giấy thật luôn ạ."
+
+[KỊCH BẢN] Tải sách bên ngoài & Giới thiệu SAVI:
+Cách nói: "Dạ máy hoàn toàn cho phép chép tài liệu, PDF, sách đuôi epub bên ngoài vào thoải mái ạ. Đặc biệt bên em hiện có ứng dụng SAVI - Kho sách bản quyền Việt Nam, đang có ưu đãi tặng tài khoản đọc sách khi mua máy, cực kỳ tiện lợi ạ."
