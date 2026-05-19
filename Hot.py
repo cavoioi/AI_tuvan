@@ -33,22 +33,21 @@ KNOWLEDGE_FILES = {"cam_nang.txt": "utf-8"}
 # ══════════════════════════════════════════════════════════════════
 
 # Bước 1: Phân loại intent để xử lý đúng hướng
-INTENT_PROMPT = PromptTemplate.from_template("""Phân tích câu hỏi của khách và phân loại vào MỘT trong các nhóm sau:
+INTENT_PROMPT = PromptTemplate.from_template("""Phân tích câu hỏi/câu nói của khách và phân loại vào MỘT trong các nhóm sau:
 
 ĐỊNH NGHĨA CHÍNH XÁC:
-- GREETING: CHỈ khi câu hỏi là chào hỏi thuần túy, KHÔNG đề cập sản phẩm hay nhu cầu cụ thể. Ví dụ: "xin chào", "hello", "shop ơi".
-- PRODUCT: hỏi về sản phẩm, tính năng, thông số KỂ CẢ khi có chào hỏi kèm theo. Ví dụ: "xin chào, tư vấn dòng note", "cho tôi hỏi về boox", "máy nào tốt", "đọc và ghi chú", "tôi cần máy để...".
-- PRICE: hỏi về giá, khuyến mãi, trả góp, Cam kểt.
-- COMPARE: so sánh sản phẩm
-- POLICY: hỏi bảo hành, đổi trả, vận chuyển, hỏi về địa chỉ, hệ thống cửa hàng, chi nhánh, giờ làm việc, bảo hành, đổi trả, vận chuyển, thanh toán.
-- OBJECTION: phản đối giá, "đắt quá", "để suy nghĩ", do dự
-- OUT_OF_SCOPE: hoàn toàn ngoài chủ đề máy đọc sách
-- FOLLOWUP: câu trả lời ngắn tiếp nối câu hỏi trước (ví dụ AI hỏi "dùng để làm gì?" khách trả lời "đọc sách")
+- GREETING: CHỈ khi câu hỏi là chào hỏi thuần túy, KHÔNG đề cập nhu cầu. Ví dụ: "xin chào".
+- PRODUCT: hỏi về sản phẩm, tính năng, HOẶC khách nêu nhu cầu sử dụng (đọc sách, đọc truyện, làm việc). Ví dụ: "tư vấn dòng Boox", "tư vấn dòng note", "tôi cần máy để...", "tôi hay đọc truyện tranh".
+- PRICE: hỏi về giá, khuyến mãi, trả góp.
+- COMPARE: so sánh sản phẩm.
+- POLICY: hỏi bảo hành, đổi trả, hệ thống cửa hàng, vận chuyển.
+- OBJECTION: phản đối giá, "đắt quá", "để suy nghĩ".
+- OUT_OF_SCOPE: hoàn toàn ngoài chủ đề máy đọc sách. LUẬT THÉP: Câu nói nêu sở thích đọc sách, đọc truyện LÀ TRONG PHẠM VI (Bắt buộc chọn PRODUCT hoặc FOLLOWUP), tuyệt đối KHÔNG chọn OUT_OF_SCOPE.
+- FOLLOWUP: câu trả lời ngắn tiếp nối câu hỏi trước (ví dụ AI hỏi "dùng làm gì?" khách trả lời "tôi đọc truyện", "đen trắng"), HOẶC khách xin gợi ý trực tiếp mà không cung cấp thông số kỹ thuật (ví dụ: "gợi ý cho em với", "em không biết", "tư vấn giúp em", "em chưa biết chọn cái nào", "mới dùng lần đầu").
 
 LƯU Ý QUAN TRỌNG:
-- Nếu câu có CHÀO HỎI + YÊU CẦU SẢN PHẨM → PRODUCT (không phải GREETING)
-- Nếu câu rất ngắn và có lịch sử hội thoại → FOLLOWUP
-- GREETING chỉ dùng khi câu hỏi KHÔNG có thông tin nhu cầu nào
+- Nếu câu nói rất ngắn và có lịch sử hội thoại (ví dụ: "tôi đọc truyện") → Ưu tiên chọn FOLLOWUP hoặc PRODUCT.
+- GREETING chỉ dùng khi KHÔNG có thông tin nhu cầu nào.
 
 Chỉ trả về đúng một từ khóa, không giải thích.
 
@@ -57,8 +56,9 @@ Câu hỏi mới: {question}
 Loại:""")
 
 # Bước 2: Viết lại câu hỏi độc lập (chỉ dùng khi FOLLOWUP)
-CONDENSE_PROMPT = PromptTemplate.from_template("""Khách đang hỏi tiếp theo câu trước. Hãy viết lại câu hỏi thành một câu độc lập, đầy đủ nghĩa.
-Không thêm thông tin không có trong câu hỏi mới.
+CONDENSE_PROMPT = PromptTemplate.from_template("""Khách đang trả lời hoặc hỏi tiếp theo câu trước.
+Hãy viết lại thành một câu hỏi ĐỘC LẬP, ĐẦY ĐỦ NGHĨA, giữ nguyên 100% thông tin nhu cầu cụ thể mà khách đã cung cấp.
+BẮT BUỘC giữ lại: loại sách, kích thước màn hình, ngân sách nếu khách đã đề cập.
 
 Lịch sử: {chat_history}
 Câu hỏi mới: {question}
@@ -67,17 +67,45 @@ Câu hỏi độc lập:""")
 # ── QUY TẮC ANCHOR (inject vào run() khi build prompt) ───────────
 ANCHOR_RULE = """
 QUY TẮC TƯ VẤN CÓ ANCHOR SẢN PHẨM (BẮT BUỘC):
-
+KIỂM TRA TRƯỚC KHI HỎI LẠI (ƯU TIÊN TUYỆT ĐỐI):
+Trước khi đặt bất kỳ câu hỏi nào, BẮT BUỘC kiểm tra Lịch sử hội thoại.
+- Nếu khách đã trả lời câu hỏi đó rồi (VD: đã nói "đọc sách chữ", "màu", "đen trắng", ngân sách...) → TUYỆT ĐỐI KHÔNG HỎI LẠI. Lập tức đề xuất sản phẩm.
+- Chỉ hỏi lại khi thông tin thực sự CHƯA XUẤT HIỆN trong toàn bộ lịch sử.
 BƯỚC 0: NHẬN DIỆN VÀ PHÂN LUỒNG NHU CẦU THEO NHÓM
 - Khách thường gọi tắt (Ví dụ: "go 10.3 lumi" = "Boox Go 10.3 Gen 2 Lumi" hoặc khách hỏi go 6 thì = "Boox Go 6", go 7 thì = "Boox Go 7").
 + NẾU đã có đủ thông tin -> Đề xuất đúng máy theo kịch bản + BẮT BUỘC CHÈN KÈM ĐƯỜNG LINK "👉 [Thông tin chi tiết](url)" có trong Ngữ cảnh để khách bấm xem + Kèm theo chiến thuật UP-SALE/CROSS-SELL đã được hướng dẫn.
 - KỊCH BẢN PHÂN LOẠI KHI KHÁCH HỎI CHUNG CHUNG HOẶC NÊU NHU CẦU:
   + TRƯỜNG HỢP 0 (HỎI QUÁ CHUNG CHUNG, CHƯA RÕ NHU CẦU): Nếu khách chỉ nói "tư vấn cho tôi dòng boox", "máy nào tốt", "giới thiệu máy đọc sách", "tư vấn cho tôi Kindle"... mà CHƯA CÓ kích thước hay nhu cầu cụ thể. 
     -> TUYỆT ĐỐI KHÔNG liệt kê bất kỳ sản phẩm hay giá tiền nào. BẮT BUỘC phải HỎI LẠI nhu cầu của khách để phân luồng (Ví dụ: "Dạ Boox có rất nhiều dòng máy. Anh/chị đang tìm một chiếc máy nhỏ gọn 6-7 inch để đọc sách chữ, hay cần máy màn hình lớn 10 inch trở lên để ghi chú và đọc PDF ạ?"). 
+  + TRƯỜNG HỢP 0B (KHÁCH LẦN ĐẦU TIẾP XÚC, KHÔNG BIẾT GÌ VỀ KỸ THUẬT, XIN GỢI Ý): Nhận diện khi khách nói các cụm như "gợi ý cho em với", "em không biết", "tư vấn giúp em", "em chưa biết chọn cái nào", "mới dùng lần đầu", hoặc sau khi được hỏi về kích thước/ngân sách mà không trả lời được và xin gợi ý.
+    -> TUYỆT ĐỐI KHÔNG hỏi thêm các câu kỹ thuật (kích thước màn hình, dòng máy...) vì khách chưa có kiến thức để trả lời.
+    -> BẮT BUỘC chủ động gợi ý theo template sau, luôn bao gồm phần giải thích kích thước màn hình:
+
+    Nếu đã biết nhu cầu (VD: đọc sách) → gợi ý theo nhóm đó, dùng template:
+    "Dạ để em giải thích nhanh về kích thước màn hình để anh/chị dễ hình dung nhé:
+    📱 6 inch — Nhỏ bằng lòng bàn tay, bỏ túi quần được, nhẹ nhất. Phù hợp đọc mọi lúc mọi nơi.
+    📖 7 inch — To bằng cuốn sách bỏ túi, cầm 1 tay thoải mái. Phổ biến và cân bằng nhất.
+    📋 10 inch — To bằng tạp chí, cần 2 tay hoặc đặt lên bàn. Lý tưởng cho ghi chú và tài liệu PDF.
+
+    Dựa trên nhu cầu [nhu cầu của khách], em gợi ý 3 mức phổ biến nhất:
+    • Tiết kiệm — [sản phẩm phù hợp + giá] 👉 [Thông tin chi tiết](link)
+    • Phổ biến nhất — [sản phẩm phù hợp + giá] 👉 [Thông tin chi tiết](link)
+    • Nâng cao — [sản phẩm phù hợp + giá] 👉 [Thông tin chi tiết](link)
+    Anh/chị thấy mức nào phù hợp với mình ạ?"
+
+    Ví dụ điền cụ thể khi nhu cầu là đọc sách chữ/tiểu thuyết:
+    • Tiết kiệm — Savi 6S (3.390.000đ), màn 6 inch 👉 [Thông tin chi tiết](https://akishop.com.vn/may-doc-sach-savi-6s-pd210450.html)
+    • Phổ biến nhất — Boox Go 7 đen trắng (7.590.000đ), màn 7 inch 👉 [Thông tin chi tiết](https://akishop.com.vn/may-doc-sach-boox-go-7-pd209886.html)
+    • Nâng cao — Boox Go 7 Color (7.590.000đ), màn 7 inch có màu 👉 [Thông tin chi tiết](https://akishop.com.vn/may-doc-sach-boox-go-color-chinh-hang-gia-tot-nhat-tai-akishop-pd205905.html)
+
+    Nếu chưa biết nhu cầu → giải thích kích thước trước, sau đó hỏi 1 câu duy nhất về thói quen:
+    "Dạ anh/chị thường đọc sách ở đâu ạ — trên giường/ghế sofa, hay mang theo đi làm/du lịch? Em sẽ gợi ý kích thước và dòng máy phù hợp nhất."
+
+    -> Sau khi khách chọn mức hoặc trả lời → tiếp tục theo logic TRƯỜNG HỢP 1 và BƯỚC 2/3/4 bình thường. 
 - TRƯỜNG HỢP 1 (KHÁCH NÊU RÕ MỘT NHU CẦU CỤ THỂ - VD: truyện tranh, sách nói, đọc PDF, học ngoại ngữ...): 
   + BẮT BUỘC tìm mục "KỊCH BẢN TƯ VẤN THEO NHU CẦU ĐỌC CỤ THỂ" trong Ngữ cảnh để đối chiếu.
-  + NẾU kịch bản yêu cầu phải hỏi thêm thông tin (VD: hỏi màu hay đen trắng) và Lịch sử CHƯA CÓ -> BẮT BUỘC đặt câu hỏi để làm rõ. (TUYỆT ĐỐI KHÔNG xả sản phẩm vội).
-  + NẾU đã có đủ thông tin -> Đề xuất đúng máy theo kịch bản + Kèm theo chiến thuật UP-SALE/CROSS-SELL đã được hướng dẫn.
+  + NẾU kịch bản yêu cầu phải hỏi thêm thông tin (VD: hỏi màu hay đen trắng) MÀ khách CHƯA CUNG CẤP (kiểm tra trong cả Lịch sử lẫn Câu hỏi hiện tại đều không có) -> BẮT BUỘC đặt câu hỏi để làm rõ.
+  + NẾU KHÁCH ĐÃ CUNG CẤP THÔNG TIN (đã nói trong Lịch sử hoặc vừa mới trả lời xong) -> TUYỆT ĐỐI KHÔNG HỎI LẠI. Lập tức đề xuất đúng máy theo kịch bản + BẮT BUỘC CHÈN KÈM ĐƯỜNG LINK "👉 [Thông tin chi tiết](url)" có trong Ngữ cảnh để khách bấm xem + Kèm theo chiến thuật UP-SALE/CROSS-SELL đã được hướng dẫn.
 - TRƯỜNG HỢP 2 (NHU CẦU ĐỌC SÁCH THUẦN TÚY, NHỎ GỌN): Nếu khách tìm máy 6-7 inch, đọc truyện, gọn nhẹ. 
     -> BẮT BUỘC chọn 1 sản phẩm nổi bật nhất trong [NHÓM 1] (Ví dụ: Boox Go Color 7 Gen 2 hoặc Go 7 đen trắng) làm Anchor. Gợi ý thêm: "Nếu anh/chị cần tối giản và tiết kiệm hơn nữa, em có dòng Boox Go 6 hoặc Savi ạ."
 - TRƯỜNG HỢP 3 (NHU CẦU GHI CHÚ, LÀM VIỆC): Nếu khách tìm máy màn hình lớn, ghi chú, PDF.
@@ -102,6 +130,7 @@ BƯỚC 3: LOGIC TRÌNH BÀY SẢN PHẨM (BẮT BUỘC)
 BƯỚC 4: CHÍNH SÁCH TRẢ GÓP MẶC ĐỊNH (LUẬT THÉP)
 TUYỆT ĐỐI KHÔNG dùng từ "trả góp 0%". BẮT BUỘC copy y hệt đoạn sau:
 "Akishop có hỗ trợ trả góp online qua thẻ tín dụng, thủ tục trả góp nhanh chóng và tiện lợi. Chi tiết liên hệ Hotline 0856 87 88 89 hoặc qua [Fanpage Akishop](https://www.facebook.com/akishop.official) [Máy đọc sách Akishop](https://akishop.com.vn/) để được tư vấn và hỗ trợ.
+
 • Tại Hà Nội:
 - 71 Nguyễn Phong Sắc, Cầu Giấy. Hotline: 0974888717
 - 136 Tôn Đức Thắng, Ô Chợ Dừa. Hotline: 0334176893
@@ -248,14 +277,31 @@ def build_chain(retriever, llm):
         question = inputs["question"]
         history  = inputs.get("chat_history", "")
 
+        # ── Bước 0: Phát hiện "xin gợi ý" TRƯỚC khi chạy CONDENSE ───
+        # Lý do: CONDENSE sẽ hấp thụ câu hỏi kỹ thuật của bot vào câu user
+        # (VD: bot hỏi "kích thước + ngân sách?" → user nói "gợi ý đi"
+        #  → CONDENSE viết lại thành "Tôi muốn gợi ý với kích thước + ngân sách"
+        #  → bot hỏi lại y hệt → vòng lặp vô tận)
+        GOI_Y_TRIGGERS = [
+            "gợi ý", "không biết", "chưa biết", "chưa có",
+            "tư vấn giúp", "mới dùng lần đầu", "không rành",
+            "em chưa", "mình chưa", "tôi chưa",
+        ]
+        is_goi_y = any(t in question.lower() for t in GOI_Y_TRIGGERS)
+
         # ── Bước 1: Condense TRƯỚC nếu có lịch sử ────────────────
-        # "giá máy bao nhiêu" + history "boox go 7" → "Boox Go 7 giá bao nhiêu?"
         search_query = question
-        if history:
+        if history and not is_goi_y:
+            # Trường hợp thường: viết lại câu độc lập từ lịch sử
             search_query = condense_chain.invoke({
                 "question": question,
                 "chat_history": history,
             }).strip()
+        elif history and is_goi_y:
+            # FIX LỖI ẢO GIÁC (HALLUCINATION):
+            # TUYỆT ĐỐI KHÔNG nhồi biến {history} (chứa định dạng Khách/Em) vào search_query.
+            # LLM đã tự đọc được lịch sử từ System Prompt. Chỉ cần truyền lệnh định hướng.
+            search_query = f"{question} (Ghi chú cho AI: Khách là người mới, hãy tự đọc nhu cầu trong lịch sử để gợi ý dòng máy phù hợp. TUYỆT ĐỐI KHÔNG tự bịa ra đoạn hội thoại của Khách)."
 
         # ── Bước 2: Phân loại intent trên câu ĐÃ CONDENSE ────────
         # Bây giờ "Boox Go 7 giá bao nhiêu?" → PRICE (đúng)
@@ -279,7 +325,7 @@ def build_chain(retriever, llm):
         system_template = SYSTEM_PROMPTS.get(intent, DEFAULT_SYSTEM)
 
         # Inject anchor rule + fill các biến
-        anchor_rule = ANCHOR_RULE if history else ""
+        anchor_rule = ANCHOR_RULE if (history and intent not in ("FOLLOWUP", "GREETING")) else ""
         try:
             system_filled = system_template.format(
                 context=context,
