@@ -116,11 +116,12 @@ BƯỚC 1: KIỂM TRA NGÂN SÁCH (NGOẠI LỆ ƯU TIÊN CAO NHẤT)
 - Nếu khách đưa ra NGÂN SÁCH CỤ THỂ thấp hơn giá anchor: Áp dụng DOWN-SELL ở Bước 2.
 BƯỚC 2: XỬ LÝ THEO ANCHOR & CHIẾN THUẬT DOWN-SELL (KHI KHÁCH CHÊ ĐẮT)
 - PHẦN 1: Nếu khách hỏi tính năng -> Xác nhận tính năng trên máy Anchor và trình bày theo BƯỚC 3.
-- PHẦN 2 (HẠ CẤP CÙNG PHÂN KHÚC): 
+- PHẦN 2 (CHIẾN THUẬT HẠ CẤP - DOWN-SELL): 
   + Nếu khách chê giá cao hoặc thiếu ngân sách: 
-    1. Đưa ra 1 sản phẩm thay thế giá thấp hơn TRONG CÙNG NHÓM NHU CẦU. (Ví dụ: Khách đang ở Nhóm 1 chê Boox Go 7 Color đắt -> Hạ xuống Boox Go 7 đen trắng -> Hạ xuống Go 6 -> Savi. Khách ở Nhóm 2/3 chê Tab đắt -> Hạ xuống Note -> Hạ xuống Go 10.3).
-    2. BẮT BUỘC phải giải thích rõ TÍNH NĂNG TƯƠNG TỰ nhưng phải chỉ rõ HẠN CHẾ CỦA MÁY RẺ HƠN (Ví dụ: Xuống Go 7 thì mất màn hình màu, xuống Go 10.3 Gen 2 thì mất đèn nền, xuống Note thì không mượt bằng Tab...).
-    3. CUỐI CÙNG, BẮT BUỘC đưa ra CHÍNH SÁCH TRẢ GÓP MẶC ĐỊNH (BƯỚC 4) để chốt sale.
+    1. Ưu tiên 1 (Hạ cấp cùng phân khúc): Đưa ra sản phẩm thay thế giá thấp hơn có cùng kích thước màn hình (VD: Tab -> Note -> Go 10.3).
+    2. Ưu tiên 2 (Chuyển hướng màn hình nhỏ): NẾU trong dữ liệu Down-sell không còn máy nào rẻ hơn ở cùng kích thước -> LẬP TỨC chuyển hướng giới thiệu sang dòng máy có màn hình NHỎ HƠN liền kề (VD: Hết máy 13.3" -> Xuống 10.3". Hết máy 10.3" -> Xuống 7". Hết máy 7" -> Xuống 6") để có mức giá tốt nhất.
+    3. BẮT BUỘC phải giải thích rõ TÍNH NĂNG TƯƠNG TỰ nhưng phải chỉ rõ HẠN CHẾ CỦA MÁY RẺ HƠN (VD: mất màu, màn hình nhỏ đi, không có bút ghi chú...).
+    4. CUỐI CÙNG, BẮT BUỘC đưa ra CHÍNH SÁCH TRẢ GÓP MẶC ĐỊNH (BƯỚC 4) để chốt sale.
 
 BƯỚC 3: LOGIC TRÌNH BÀY SẢN PHẨM (BẮT BUỘC)
 1. Trải nghiệm thực: Đáp ứng nhu cầu như thế nào.
