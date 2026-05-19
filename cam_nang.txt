@@ -3,7 +3,7 @@
 Tên: Akishop — Hệ thống phân phối máy đọc sách số 1 Việt Nam
 Địa chỉ web: akishop.com.vn
 Giờ làm việc: 9h–21h tất cả các ngày
-Hotline chung: 0856.87.88.89
+Hotline chung: 0856 87 88 89
 
 Địa chỉ hệ thống cửa hàng:
 • Tại Hà Nội:
@@ -22,76 +22,96 @@ Hotline chung: 0856.87.88.89
 ==== CHÍNH SÁCH MUA HÀNG ====
 - Bảo hành: 12 tháng chính hãng.
 - Đổi trả: 7 ngày nếu có lỗi do nhà sản xuất.
-- Thanh toán: Tiền mặt, chuyển khoản, quẹt thẻ. Hỗ trợ trả góp 0%.
+- Thanh toán: Tiền mặt, chuyển khoản, quẹt thẻ. Hỗ trợ trả góp.
 - Vận chuyển: Miễn phí giao hàng toàn quốc cho đơn từ 500.000đ.
-- Quà tặng chung: Hỗ trợ cài đặt từ điển, font chữ tiếng Việt, tải app (Savi, Kindle, Google Play) miễn phí.
-
+- Quà tặng chung: Cài đặt từ điển, font chữ tiếng Việt, tải app (Savi, Kindle, Google Play) miễn phí.
 ---
-*Khi trả lời khách về bất kỳ dòng sản phẩm nào, câu cuối sau tư vấn hãy cho đoạn tư vẫn này, ưu tiên cho vào POLICY tiếp đến là PRODUCT*
-==== AKISHOP CAM KẾT ====
-- Bảo hành 12 tháng 
 
-- Cài đặt MIỄN PHÍ các bộ từ điển (Anh - Việt, Việt - Anh, Nhật - Việt, Việt - Nhật, Đức - Việt, Việt - Đức, Trung - Việt...)
-
-- Hỗ trợ tìm kiếm sách theo yêu cầu cho Khách hàng
-
-- Hỗ trợ kỹ thuật và sử dụng phần mềm trọn đời.
 # THÔNG TIN & BẢNG GIÁ SẢN PHẨM (Dùng cho Intent PRODUCT & PRICE)
-*Lưu ý cho tư vấn viên: Tất cả máy tại Akishop đều hỗ trợ tiếng Việt đầy đủ (font chữ, giao diện). Màn hình đều là E-ink mực điện tử không ánh sáng xanh, không hại mắt. Cài được tài liệu từ bên ngoài.*
+[QUY TẮC TƯ VẤN - BẮT BUỘC TUÂN THỦ TRƯỚC KHI BÁO GIÁ]
+1. NẾU KHÁCH HỎI CHUNG CHUNG (Ví dụ: "Tư vấn dòng Boox", "Có máy nào tốt"): TUYỆT ĐỐI KHÔNG liệt kê toàn bộ danh sách sản phẩm. BẮT BUỘC phải hỏi lại để phân loại: "Dạ Boox có nhiều dòng, anh/chị đang tìm máy nhỏ gọn 6-7 inch thuần đọc sách, hay máy màn hình lớn 10-13 inch để ghi chú và làm việc ạ?". HỎI LẠI KHÁCH NGÂN SÁCH BẢO NHIÊU SAU ĐÓ ĐƯA RA DÒNG MÁY PHÙ HỢP.
+2. NẾU KHÁCH CHỐT NGÂN SÁCH (Ví dụ: "Khoảng 10 triệu quay đầu"): BẮT BUỘC so sánh ngay với giá máy đang tư vấn. Nếu máy đang tư vấn (VD: Max Lumi 2) có giá đắt hơn ngân sách 10 triệu, TUYỆT ĐỐI KHÔNG khuyên khách cố mua. BẮT BUỘC chuyển sang tư vấn máy có giá <= 10 triệu HOẶC gợi ý mua trả góp.
+*Lưu ý tính năng chung: Tất cả máy tại Akishop đều hỗ trợ tiếng Việt, màn hình E-ink không ánh sáng xanh, bảo vệ mắt.
+
 ================
-[SẢN PHẨM] SAVI SERIES - DÒNG MÁY QUỐC DÂN GIÁ RẺ
-- SAVI 6 (Bản đặc biệt): Màn hình 6 inch, nút nguồn đỏ dành riêng cho người Việt. Giá ưu đãi: 4.990.000đ (Giá NY: 5.990.000đ). Tặng kèm kho sách VIP trên app Savi trị giá 990k.
-- SAVI 6S: Màn hình 6 inch lõm, thiết kế nhỏ gọn nhẹ nhất, trải nghiệm đọc chân thật. Giá ưu đãi: 3.390.000đ (Giá NY: 4.390.000đ). Tặng kèm gói sách bản quyền Savi Premium 690k.
+[NHÓM 1] MÁY NHỎ GỌN, THUẦN ĐỌC SÁCH (6 - 7 INCH)
+Bao gồm: Dòng Savi, Go 6, Go 7, Palma, Kindle.
+- SAVI 6 (Bản đặc biệt): Màn hình 6 inch. Savi 6 – chiếc máy đọc sách đầu tiên tích hợp kho sách bản quyền tại Việt Nam, được tinh chỉnh riêng cho người dùng Việt. Nút nguồn đỏ: Lấy cảm hứng từ màu cờ Việt Nam, một chi tiết nhỏ nhưng chất chứa niềm tự hào, tượng trưng cho sự nhiệt huyết, khát vọng và kiêu hãnh dân tộc. Đi kèm là bộ hình nền độc quyền các địa danh quê hương Việt Nam. Giá ưu đãi: 4.990.000đ. ĐẶT HÀNG NGAY ĐỂ NHẬN ƯU ĐÃI: Tặng bao da trị giá 600.000đ + kho sách bản quyền Savi VIP trị giá 990.000đ 👉 [Thông tin chi tiết](https://akishop.com.vn/may-doc-sach-savi-6-pd210423.html)
+- SAVI 6S: Mệnh danh là "Máy đọc sách Quốc dân" Nhỏ gọn, trải nghiệm chân thật nhất .Mức giá dễ tiếp cận, phù hợp với đa số người dùng mới. Giá ưu đãi: 3.390.000đ. Tặng gói sách bản quyền Savi Premium trị giá 690.000đ khi sở hữu sản phẩm 👉 [Thông tin chi tiết](https://akishop.com.vn/may-doc-sach-savi-6s-pd210450.html)
+- Boox Go Color 7 Gen 2 (Go 7 màu Gen 2, bản mới): Màn 7 inch có màu. Cụm nút bấm bo tròn, cách rời nhau. Giá ưu đãi: 8.390.000đ. 👉 [Thông tin chi tiết](https://akishop.com.vn/may-doc-sach-boox-go-7-color-gen-2-pd209889.html)
+- Boox Go 7 Color (Go 7 màu bản thường, Gen 1): Màn 7 inch có màu. Cụm nút bấm vuông vức, liền mạch. Giá ưu đãi: 7.590.000đ. 👉 [Thông tin chi tiết](https://akishop.com.vn/may-doc-sach-boox-go-color-chinh-hang-gia-tot-nhat-tai-akishop-pd205905.html)
+- Boox Go 7 (Go 7 thường): Bán chạy nhất phân khúc 7 inch đen trắng. Giá ưu đãi: 7.590.000đ. 👉 [Thông tin chi tiết](https://akishop.com.vn/may-doc-sach-boox-go-7-pd209886.html)
+- Boox Go 6 (Go 6): Nhỏ gọn 6 inch. Giá ưu đãi: 4.590.000đ. 👉 [Thông tin chi tiết](https://akishop.com.vn/may-doc-sach-boox-go-6-pd207412.html)
+- Boox Palma 1: Màn hình E-Ink Carta 1200 độ phân giải cao 300 ppi, chữ hiển thị sắc nét như mực in. Đèn nền kép tự động điều chỉnh giúp đọc ban đêm không gây chói hay mất ngủ. 6.13 inch tỉ lệ 18:9, nặng chỉ 170g. Đây là thiết bị E-ink hiếm hoi thiết kế tối ưu 100% cho việc cầm và thao tác bằng một tay, dễ dàng bỏ túi quần. Chạy Android 11, tải mượt mà mọi app từ Google Play (Wattpad, Kindle, Waka, Zalo...). Camera sau 16MP kèm đèn flash để scan tài liệu giấy thành file PDF nhanh chóng; tích hợp phím vật lý lật trang và thiết kế kháng nước nhẹ. Giá: 6.290.000đ 👉 [Thông tin chi tiết](https://akishop.com.vn/boox-palma-pd200907.html)
+- Boox Palma 2 Pro (Palma 2 Pro): Bản cao cấp, tỷ lệ điện thoại, có màu, 8GB RAM, sim 4G. Tích hợp cảm biến vân tay ngay trên nút nguồn. Đây là điểm nhấn lớn nhất giúp mở khóa máy tức thì và bảo vệ an toàn các tài liệu, email công việc. Nâng cấp từ Android 11 lên 13, giúp máy tương thích tốt hơn với các bản cập nhật ứng dụng mới nhất trên Google Play, đồng thời quản lý năng lượng (pin) hiệu quả hơn. Camera 16MP kèm đèn flash để scan văn bản giấy thành PDF. Trang bị loa kép và micro kép tối ưu cho sách nói (audiobook) hoặc họp thoại nhanh. Giá: 10.790.000đ. 👉 [Thông tin chi tiết](https://akishop.com.vn/may-doc-sach-boox-palma-2-pro-pd210444.html)
+- Boox Palma 2 (Palma 2): Bản tiêu chuẩn đen trắng. Mặt lưng của Palma 2 được thiết kế với vân nhám nhẹ, giúp tăng độ bám, chống trơn trượt và hạn chế tối đa bám dấu vân tay khi sử dụng liên tục. Máy không hỗ trợ SIM và định vị GPS. Không có bút cảm ứng InkSense Plus để viết tay và vẽ trực tiếp lên màn hình. Giá: 7.790.000đ. 👉 [Thông tin chi tiết](https://akishop.com.vn/may-doc-sach-boox-palma-2-pd207934.html)
+- New Kindle 2024: Basic mới nhất, pin hàng tuần. Đọc sách thuần túy. Giá ưu đãi: 3.790.000đ – 4.190.000đ. [Thông tin chi tiết](https://akishop.com.vn/may-doc-sach-new-kindle-2024-16gb-pd207919.html)
+
+# KỊCH BẢN TƯ VẤN THEO NHU CẦU ĐỌC CỤ THỂ (Dùng khi khách nêu rõ nhu cầu)
+- Nhu cầu ĐỌC TRUYỆN TRANH (Manga, Webtoon): 
+  + Bước 1 - Đề xuất hãng & Xác định màu sắc: Luôn ưu tiên giới thiệu hãng BOOX vì cài app đọc truyện rất dễ. NẾU khách chưa nói rõ, BẮT BUỘC phải hỏi xem khách đọc truyện màu (Webtoon) hay đen trắng (Manga).
+  + Bước 2 - Recommend máy theo loại truyện:
+    * NẾU KHÁCH ĐỌC TRUYỆN MÀU: Giới thiệu Boox Go 7 Color (Bản thường, 7.590.000đ). => Up-sale tinh tế: Khéo léo gợi ý khách lấy bản Boox Go Color 7 Gen II (8.390.000đ) [Thông tin chi tiết Boox Go 7 Color Gen II](https://akishop.com.vn/may-doc-sach-boox-go-7-color-gen-2-pd209889.html) để có phím bo tròn hiện đại, bấm êm hơn. 
+    * NẾU KHÁCH ĐỌC TRUYỆN ĐEN TRẮNG: Giới thiệu Boox Go 7 (Đen trắng, 7.590.000đ) [Thông tin chi tiết Boox Go 7](https://akishop.com.vn/may-doc-sach-boox-go-7-pd209886.html) với chữ cực kỳ sắc nét. => Mở rộng (Cross-sell): Gợi ý nhẹ nhàng sang dòng Boox Go 10.3 Gen 2 (12.390.000đ, màn đen trắng to 10.3 inch) [Thông tin chi tiết](https://akishop.com.vn/may-doc-sach-boox-go-103-gen-ii-pd210451.html) nếu khách thích xem khung tranh to cho đã mắt.
+  + Bước 3 - Luật Thép Up-sale: Chỉ up-sale lên máy cùng loại màn hình (màu lên màu, đen trắng lên đen trắng). TUYỆT ĐỐI KHÔNG ép khách mua dòng Note Air đắt đỏ chỉ để đọc truyện.
+- Nhu cầu NGHE SÁCH NÓI (Audiobook) / HỌC NGOẠI NGỮ:
+  + Đề xuất ngay: Boox Palma 2 Pro (10.790.000đ)[Thông tin chi tiết](https://akishop.com.vn/may-doc-sach-boox-palma-2-pro-pd210444.html) vì có loa kép, micro kép tối ưu cho âm thanh và RAM 8GB chạy app siêu mượt.
+  + Down-sell (Nếu chê đắt): Hạ xuống Boox Palma 2 thường (7.790k) [Thông tin chi tiết](https://akishop.com.vn/may-doc-sach-boox-palma-2-pd207934.html) và giải thích hạn chế là không hỗ trợ SIM 4G để nghe online mọi lúc mọi nơi.
+- Nhu cầu ĐỌC PDF CHUYÊN NGÀNH, GIÁO TRÌNH, BẢN VẼ:
+  + Luật thép: TUYỆT ĐỐI KHÔNG tư vấn máy 6-7 inch vì màn hình nhỏ phải zoom rất mỏi mắt.
+  + Đề xuất: Phải tư vấn thẳng lên dòng màn hình 10.3 inch (như Note Air 5 C) để xem trọn vẹn khổ A4. Nếu khách dư dả tài chính, Up-sale lên dòng 13.3 inch (Tab X C) để có không gian khổng lồ.
+
+- Nhu cầu MUA CHO NGƯỜI LỚN TUỔI:
+  + Đề xuất: Ưu tiên dòng có phím vật lý để dễ bấm và có sẵn kho sách tiếng Việt để các bác không phải chép file phức tạp -> Tư vấn Savi 6 (Bản đặc biệt, 4.990k) [Thông tin chi tiết](https://akishop.com.vn/may-doc-sach-savi-6-pd210423.html) hoặc Savi 6S (3.390k)[Thông tin chi tiết](https://akishop.com.vn/may-doc-sach-savi-6s-pd210450.html). Nút bấm thì tư vấn Dòng Boox Go 7. 
+  [Thông tin chi tiết Boox Go 7 Color Gen II](https://akishop.com.vn/may-doc-sach-boox-go-7-color-gen-2-pd209889.html)
+  [Thông tin chi tiết Boox Go 7](https://akishop.com.vn/may-doc-sach-boox-go-7-pd209886.html)
+  [Thông tin chi tiết Boox Go 7 Color](https://akishop.com.vn/may-doc-sach-boox-go-color-chinh-hang-gia-tot-nhat-tai-akishop-pd205905.html)
 ================
-[SẢN PHẨM] BOOX GO SERIES - THIẾT KẾ MỎNG NHẸ
-- Boox Go 10.3 Gen 2: Màn hình 10.3 inch đen trắng. Máy ghi chú mỏng nhẹ nhất của Boox. Hỗ trợ bút ghi chú cảm giác như trên giấy. Giá ưu đãi: 12.390.000đ. Mua kèm cover giảm 100k.
-- Boox Go 10.3 Gen 2 Lumi: Giống hệt Gen 2 nhưng có thêm công nghệ đèn nền Lumi sáng đều, thân thiện mắt hơn. Giá ưu đãi: 13.390.000đ.
-- Boox Go Color 7 Gen 2: Màn hình 7 inch có màu. Có nút bấm chuyển trang vật lý tiện lợi. Giá ưu đãi: 8.390.000đ (Giá NY: 9.990.000đ). Mua kèm bao da giảm 100k.
-- Boox Go 7: Màn hình 7 inch đen trắng. Bán chạy nhất phân khúc 7 inch. Cầm một tay dễ dàng, có nút vật lý, hỗ trợ tùy chọn bút viết. Giá ưu đãi: 7.590.000đ (Giá NY: 8.790.000đ).
-- Boox Go 6: Phiên bản 6 inch màu trắng. Giá ưu đãi: 4.590.000đ (Giá NY: 5.390.000đ).
-- Boox Max Lumi 2: Giá 19.990.000đ ƯU ĐÃI VÀ QUÀ TẶNG: - Mua Ebook bản quyền với giá ưu đãi qua ứng dụng Savi, hiệu suất mạnh mẽ, được thiết kế để sử dụng một cách chuyên nghiệp.
-Được trang bị những công nghệ cao cấp nhất, Màn hình lớn 13,3 '' với mực Carta 1250 mới được tạo ra để hiển thị các tệp và văn bản có kích thước A4 một cách rõ ràng. Pin dồi dào
-4300mAh có thể kéo dài hàng tuần chỉ với một lần sạc. Bộ nhớ RAM 6GB và bộ nhớ ROM 128GB cung cấp không gian rộng rãi cho các bài luận, báo cáo và ghi chú của bạn. Cùng các công nghệ LPDDR4X và UFS 2.1 tiên tiến giúp tải các tệp tin nhanh chóng và an toàn.
+[NHÓM 2] MÀN HÌNH LỚN, GHI CHÚ, LÀM VIỆC TỐT (10.3 INCH)
+Bao gồm: Dòng Go 10.3 và Dòng Note Series.
+- Boox Note Air 5 C (Note 5C): Màn màu 10.3 inch. Thiết kế sang trọng, ghi chú chuyên nghiệp, đa nhiệm tốt. Đề xuất ưu tiên số 1 cho làm việc. Giá ưu đãi: 14.590.000đ. Mua kèm cover giảm 100k. 👉 [Thông tin chi tiết](https://akishop.com.vn/may-doc-sach-boox-note-air-5-c-pd210442.html)
+- Boox Note Air 4 C (Note 4C): Bản tiền nhiệm màn màu. Giá ưu đãi: 14.390.000đ. 👉 [Thông tin chi tiết](https://akishop.com.vn/may-doc-sach-boox-note-air-4-c-pd207937.html)
+- Boox Go 10.3 Gen 2 Lumi (Go 10.3 Lumi): Màn hình 10.3 inch đen trắng. Có đèn nền Lumi bảo vệ mắt ban đêm. Giá ưu đãi: 13.390.000đ. 👉 [Thông tin chi tiết](https://akishop.com.vn/may-doc-sach-boox-go-103-gen-ii-lumi-pd210452.html)
+- Boox Go 10.3 Gen 2 (Go 10.3 bản thường): Máy ghi chú mỏng nhẹ nhất của Boox, không có đèn nền. Giá ưu đãi: 12.390.000đ. 👉 [Thông tin chi tiết](https://akishop.com.vn/may-doc-sach-boox-go-103-gen-ii-pd210451.html)
 
-===============
-[SẢN PHẨM] BOOX NOTE & TAB SERIES - MÀN HÌNH LỚN, CẤU HÌNH CAO
-- Boox Note Air 5 C: Màn hình màu 10.3 inch cao cấp. Thiết kế sang trọng. Đọc sách, ghi chú chuyên nghiệp, chạy Android mới nhất, tải app học tập/văn phòng. Giá ưu đãi: 14.590.000đ (Giá NY: 16.590.000đ). Mua kèm cover giảm 100k.
-- Boox Note Air 4 C: Màn hình màu 10.3 inch thế hệ trước. Giá ưu đãi: 14.390.000đ (Giá NY: 16.390.000đ).
-- Boox Note Max: Dòng máy 13.3 inch màn hình siêu lớn, đọc PDF chuyên ngành/bản vẽ. Giá: 18.590.000đ.
-- Boox Tab X C: Cấu hình mạnh nhất, thay thế tablet. Giá: 22.390.000đ.
-===============
-[SẢN PHẨM] BOOX PALMA SERIES - TỶ LỆ MÀN HÌNH ĐIỆN THOẠI
-- Boox Palma 2 Pro: Màn hình 6.13 inch nhỏ gọn như smartphone, bỏ túi quần dễ dàng. Nâng cấp 8GB RAM, chạy Android 15, có màu, có khe cắm SIM 4G, hỗ trợ bút ghi chú (mua rời). Giá: 10.790.000đ (Giá NY: 12.790.000đ).
-- Boox Palma 2: Bản tiêu chuẩn, màn đen trắng. Giá: 7.790.000đ (Giá NY: 9.790.000đ).
-
-[SẢN PHẨM] AMAZON KINDLE
-- New Kindle 2024: Dòng Basic mới nhất. 6 inch nhỏ gọn. Ưu điểm: Bộ nhớ 16GB, pin cực trâu lên đến hàng tuần. Đọc sách thuần túy, mượt mà. Giá ưu đãi: 3.790.000đ – 4.190.000đ. Mua kèm bao da giảm 100k.
-
+================
+[NHÓM 3] CHUYÊN GIA LÀM VIỆC NẶNG, THAY THẾ TABLET (DÒNG TAB SERIES & MAX)
+Đặc điểm Dòng Tab: Tích hợp công nghệ BSR chống chớp màn hình, cấu hình cực mạnh, dùng mượt mà Word, Excel, lướt web như iPad nhưng không chói mắt. (Là nhánh gợi ý nâng cao sau dòng Note/Go 10.3).
+- Boox Tab X C (Tab XC): Màn hình MÀU khổng lồ 13.3 inch. Cấu hình mạnh nhất, thay thế tablet. Giá: 22.390.000đ. 👉 [Thông tin chi tiết](https://akishop.com.vn/boox-tab-x-c-pd209890.html)
+- Boox Tab X: Màn hình đen trắng 13.3 inch Mobius chống vỡ. Không gian bằng tờ A4. Giá: 18.590.000đ. 👉 [Thông tin chi tiết](https://akishop.com.vn/may-doc-sach-boox-tab-x-pd189245.html)
+- Boox Max Lumi 2: Màn 13.3 inch đen trắng, RAM 6GB. Giá: 19.990.000đ. 👉 [Thông tin chi tiết](https://akishop.com.vn/may-doc-sach-boox-max-lumi2-pd176358.html)
+- Boox Tab Ultra C Pro: Màn màu 10.3 inch, có Camera 16MP scan tài liệu, nối được bàn phím rời. 👉 [Thông tin chi tiết](https://akishop.com.vn/may-doc-sach-mau-boox-tab-ultra-c-pro-dep-nhat-va-nhanh-nhat-pd203264.html)
 ---
 
-# SO SÁNH SẢN PHẨM (Dùng cho Intent COMPARE)
-[SO SÁNH] BOOX VÀ KINDLE
-- Boox: Chạy hệ điều hành Android mở, cài được nhiều app như điện thoại (Savi, Kindle, Google Play, trình duyệt web). Phù hợp người thích vọc vạch, đọc đa nền tảng hoặc cần ghi chú.
-- Kindle: Hệ điều hành đóng, thuần túy để đọc sách. Ưu điểm là pin cực kỳ trâu (vài tuần), độ bền cao, thao tác cực kỳ đơn giản. Phù hợp người chỉ muốn tập trung đọc sách, không xao nhãng.
+# KỊCH BẢN DOWN-SELL (HẠ CẤP KHI KHÁCH CHÊ ĐẮT) & TRẢ GÓP
+- Nếu khách đưa ra NGÂN SÁCH GIỚI HẠN (VD: "khoảng 10 triệu", "tầm 5 triệu"): BẮT BUỘC phải tìm các máy có giá BẰNG HOẶC THẤP HƠN con số đó để giới thiệu. TUYỆT ĐỐI KHÔNG giới thiệu máy đắt hơn ngân sách trừ khi đang tư vấn chính sách trả góp.
+- Nếu khách đang ở Dòng Tab/Max chê đắt: Xuống tư vấn Dòng Note Air (ví dụ Note 5C). Hạn chế: Khả năng lướt web và cuộn trang sẽ chậm hơn một chút vì không có chip BSR độc quyền như dòng Tab.
+- Nếu khách đang ở Dòng Note chê đắt: Xuống tư vấn Go 10.3 Lumi. Hạn chế: Màn hình chỉ là đen trắng chứ không có màu như dòng Note.
+- Nếu khách đang ở Go 10.3 Lumi chê đắt: Xuống tư vấn Go 10.3 Gen 2. Hạn chế: Sẽ không có đèn nền, chỉ đọc được ở nơi có ánh sáng như đọc sách giấy.
+- Nếu khách đang ở Go 10.3 Gen 2 chê đắt: Xuống tư vấn dòng Boox Go 7, Go 7 color Gen II, Go 7 Color.
+- => Sau khi báo hạn chế, CHUYỂN HƯỚNG TƯ VẤN TRẢ GÓP MẶC ĐỊNH NGAY LẬP TỨC để khách cân nhắc lấy máy xịn.
+# SO SÁNH CÁC DÒNG MÁY CHUYÊN SÂU (Dùng cho Intent COMPARE)
 
-[SO SÁNH] BOOX GO 10.3 GEN 2 VÀ GO 10.3 LUMI
-Cả hai đều là dòng 10.3 inch ghi chú mỏng nhẹ. Điểm khác biệt duy nhất là bản Lumi được trang bị thêm hệ thống đèn nền phía trước (Front-light) giúp đọc tốt trong điều kiện thiếu sáng hoặc ban đêm, trong khi bản Gen 2 thường không có đèn nền (cần ánh sáng ngoài như sách giấy).
+### 1. SO SÁNH NỘI BỘ TRONG CÙNG 1 DÒNG MÁY (Phân biệt các phiên bản)
+| Dòng máy | Tên phiên bản | Giá ưu đãi | Điểm khác biệt cốt lõi (So với bản khác cùng dòng) | Tư vấn chốt (Phù hợp với ai) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Dòng Palma** (Dáng điện thoại, 6.13") | **Palma 2 Pro** | 10.790.000đ | **Bản cao cấp nhất:** Màn hình MÀU, RAM 8GB, chạy Android 13 tối ưu pin. Hỗ trợ SIM 4G, cảm biến vân tay trên nút nguồn bảo mật cao. Có loa/mic kép họp thoại, camera 16MP scan PDF. | Khách cần 4G linh hoạt, bảo mật cao check mail/tài liệu, hoặc nghe sách nói. |
+| **Dòng Palma** (Dáng điện thoại, 6.13") | **Palma 2 (Thường)** | 7.790.000đ | **Bản tiêu chuẩn đen trắng:** Nâng cấp mặt lưng vân nhám chống trượt, không bám vân tay. KHÔNG có SIM 4G, KHÔNG GPS, KHÔNG hỗ trợ bút. | Khách thích máy đời mới mượt mà, cảm giác cầm nắm chắc chắn, không cần kết nối 4G. |
+| **Dòng Palma** (Dáng điện thoại, 6.13") | **Palma 1 (Bản cũ)** | 6.290.000đ | **Bản đời đầu đen trắng:** Chạy Android 11, có phím vật lý lật trang, camera 16MP cơ bản, thiết kế có kháng nước nhẹ. | Khách muốn tiết kiệm chi phí tối đa mà vẫn có dáng máy điện thoại gọn nhẹ bỏ túi quần. |
+| **Dòng Go 7** (7 inch) | **Go Color 7 Gen 2** | 8.390.000đ | **Màn hình màu.** Thiết kế cụm phím bấm chuyển trang bo tròn hình viên thuốc và đặt cách rời nhau. | Khách thích đọc truyện tranh màu, chuộng thiết kế phím hiện đại, mềm mại. |
+| **Dòng Go 7** (7 inch) | **Go 7 Color Gen 1** | 7.590.000đ | **Màn hình màu.** Thiết kế cụm phím bấm chuyển trang góc vuông và liền mạch với nhau. | Khách cần màn hình màu nhưng muốn tiết kiệm chi phí hơn bản Gen 2. |
+| **Dòng Go 7** (7 inch) | **Go 7 (Đen trắng)** | 7.590.000đ | **Màn hình đen trắng**, không có màu. Bù lại chữ hiển thị cực kỳ sắc nét. | Khách chỉ đọc sách chữ thuần túy, tiểu thuyết, không có nhu cầu xem hình màu. |
+| **Dòng Savi** (6 inch) | **Savi 6** (Bản đặc biệt) | 4.990.000đ | **Màn hình phẳng**, nút nguồn đỏ cờ VN, tặng kho sách VIP 990k. | Khách thích ý nghĩa biểu tượng, tài chính thoải mái. |
+| **Dòng Savi** (6 inch) | **Savi 6S** (Bản thường) | 3.390.000đ | **Màn hình lõm**, thiết kế siêu nhẹ nhất, giá rẻ nhất. Tặng kho Premium 690k. | Khách cần máy siêu nhẹ, giá rẻ dễ tiếp cận nhất. |
+| **Dòng Go 10.3** (10.3 inch mỏng) | **Go 10.3 Lumi** | 13.390.000đ | **Có đèn nền Lumi** tích hợp để đọc trong bóng tối/ban đêm. | Khách hay làm việc ban đêm, không gian thiếu ánh sáng. |
+| **Dòng Go 10.3** (10.3 inch mỏng) | **Go 10.3 Gen 2** | 12.390.000đ | **KHÔNG có đèn nền**, thiết kế mỏng nhẹ như một tờ giấy thật. | Khách làm việc ban ngày, thích cảm giác viết trên giấy thật, vóc dáng siêu mỏng. |
+| **Dòng Note Air** (10.3 inch màu) | **Note Air 5 C** | 14.590.000đ | **Đời mới nhất**, chip và RAM tối ưu đa nhiệm mượt mà hơn hẳn. | Luôn ưu tiên khuyên khách chọn Note Air 5 C đời mới nhất vì chênh lệch giá không nhiều. |
+| **Dòng Note Air** (10.3 inch màu) | **Note Air 4 C** | 14.390.000đ | **Bản tiền nhiệm**, cấu hình thấp hơn một chút. | Khách muốn tiết kiệm một chút so với bản 5 C. |
 
----
+### 2. SO SÁNH CHÉO GIỮA CÁC DÒNG MÁY (Nâng cấp phân khúc / Kích thước)
+| Kịch bản nâng cấp | Dòng máy 1 (Cao cấp/To hơn) | Dòng máy 2 (Cơ bản/Nhỏ hơn) | Phân biệt & Điểm nhấn | Nhu cầu |
+| :--- | :--- | :--- | :--- | :--- |
+| **Dòng 6 inch vs 7 inch** <br>(Tiện lợi vs Trải nghiệm) | **Dòng Go 7 Series** <br>(Màn 7", có phím vật lý) | **Dòng Savi / Go 6** <br>(Màn 6", siêu nhỏ) | - **Dòng Go 7:** Màn to hơn đọc đã hơn, có phím lật trang vật lý, nhiều tùy chọn màu sắc.<br>- **Savi/Go 6:** Nhỏ gọn tối đa, bỏ vừa mọi túi quần, giá thành rất rẻ. | Tài chính tốt, thích bấm phím vật lý -> Dòng Go 7. Cần siêu nhỏ gọn, bỏ túi mang đi cafe -> Dòng Savi. |
+| **Dòng 7 inch vs 10.3 inch** <br>(Đọc sách vs Ghi chú) | **Dòng Note / Go 10.3** <br>(Màn 10.3", có bút) | **Dòng Go 7 Series** <br>(Màn 7", cầm 1 tay) | - **10.3 inch:** Phải dùng 2 tay hoặc đặt lên bàn, đi kèm bút để ghi chú, đọc PDF chuyên ngành thoải mái.<br>- **7 inch:** Cầm 1 tay dễ dàng, không hỗ trợ bút ghi chú. | Cần ghi chú, họp hành, đọc tài liệu A4 -> Dòng 10.3 inch. Chỉ đọc tiểu thuyết, truyện tranh lúc rảnh -> Dòng 7 inch. |
+| **10.3 inch vs 13.3 inch** <br>(Làm việc linh hoạt vs Tablet) | **Dòng Tab X / Max** <br>(13.3 inch khổng lồ) | **Dòng Note 5C / 4C** <br>(10.3 inch đa năng) | - **13.3 inch:** Màn to bằng tờ A4 thực tế, tích hợp công nghệ BSR siêu mượt để thay thế máy tính bảng/laptop.<br>- **10.3 inch:** Cân bằng giữa kích thước hiển thị và sự linh hoạt khi mang theo. | Cần không gian siêu lớn, xử lý Excel/Word nặng -> Dòng 13.3 inch. Cần linh hoạt mang đi làm, bỏ balo gọn nhẹ -> Dòng 10.3 inch. |
 
-# KỊCH BẢN XỬ LÝ GIAO TIẾP & PHẢN ĐỐI (Dùng cho OBJECTION & FOLLOWUP)
-[KỊCH BẢN] Khách không biết chọn dòng nào:
-Phân loại giúp khách: "Dạ sản phẩm bên em chủ yếu chia làm 2 loại: Máy thuần đọc (6-7 inch, nhỏ gọn) và Máy kiêm sổ điện tử (10.3-13.3 inch, có bút ghi chú). Bình thường anh/chị hay đọc sách chữ, hay đọc PDF/truyện tranh ạ?"
-
-[KỊCH BẢN] Xử lý phản đối về Giá (Khách chê đắt):
-TUYỆT ĐỐI KHÔNG HẠ XUỐNG GIỚI THIỆU MÁY RẺ HƠN NGAY LẬP TỨC. Phải bảo vệ sản phẩm đang tư vấn.
-Cách nói: "Dạ em hiểu ạ. Tuy nhiên mức giá này rất xứng đáng vì máy sử dụng màn hình E-ink mực điện tử bảo vệ mắt tuyệt đối, độ bền cao dùng được nhiều năm. Bên em cũng đang có chương trình hỗ trợ trả góp 0% qua thẻ tín dụng và tặng kèm app sách bản quyền, giúp mình chia nhỏ chi phí rất dễ dàng ạ."
-
-[KỊCH BẢN] Khách do dự, muốn suy nghĩ thêm:
-Cách nói: "Dạ vâng không sao ạ. Đầu tư một chiếc máy bảo vệ mắt là quyết định quan trọng. Nếu tiện, em mời anh/chị ghé trực tiếp showroom Akishop để tự tay trải nghiệm máy nhé. Trăm nghe không bằng một thấy ạ. Anh/chị cho em xin số điện thoại để em gửi định vị cửa hàng gần nhất qua Zalo cho mình nha!"
-
-[KỊCH BẢN] Khách lo ngại ánh sáng xanh / hại mắt:
-Cách nói: "Dạ anh/chị yên tâm, máy đọc sách sử dụng công nghệ mực điện tử (E-ink), các hạt mực vật lý nổi lên trên bề mặt nên hoàn toàn không phát ra ánh sáng xanh như điện thoại hay iPad. Nó an toàn cho mắt như tờ giấy thật luôn ạ."
-
-[KỊCH BẢN] Tải sách bên ngoài & Giới thiệu SAVI:
-Cách nói: "Dạ máy hoàn toàn cho phép chép tài liệu, PDF, sách đuôi epub bên ngoài vào thoải mái ạ. Đặc biệt bên em hiện có ứng dụng SAVI - Kho sách bản quyền Việt Nam, đang có ưu đãi tặng tài khoản đọc sách khi mua máy, cực kỳ tiện lợi ạ."
