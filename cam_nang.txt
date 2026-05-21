@@ -137,3 +137,49 @@ Bao gồm: Dòng Go 10.3 và Dòng Note Series.
 | **Dòng 6 inch vs 7 inch** <br>(Tiện lợi vs Trải nghiệm) | **Dòng Go 7 Series** <br>(Màn 7", có phím vật lý) | **Dòng Savi / Go 6** <br>(Màn 6", siêu nhỏ) | - **Dòng Go 7:** Màn to hơn đọc đã hơn, có phím lật trang vật lý, nhiều tùy chọn màu sắc.<br>- **Savi/Go 6:** Nhỏ gọn tối đa, bỏ vừa mọi túi quần, giá thành rất rẻ. | Tài chính tốt, thích bấm phím vật lý -> Dòng Go 7. Cần siêu nhỏ gọn, bỏ túi mang đi cafe -> Dòng Savi. |
 | **Dòng 7 inch vs 10.3 inch** <br>(Đọc sách vs Ghi chú) | **Dòng Note / Go 10.3** <br>(Màn 10.3", có bút) | **Dòng Go 7 Series** <br>(Màn 7", cầm 1 tay) | - **10.3 inch:** Phải dùng 2 tay hoặc đặt lên bàn, đi kèm bút để ghi chú, đọc PDF chuyên ngành thoải mái.<br>- **7 inch:** Cầm 1 tay dễ dàng, không hỗ trợ bút ghi chú. | Cần ghi chú, họp hành, đọc tài liệu A4 -> Dòng 10.3 inch. Chỉ đọc tiểu thuyết, truyện tranh lúc rảnh -> Dòng 7 inch. |
 | **10.3 inch vs 13.3 inch** <br>(Làm việc linh hoạt vs Tablet) | **Dòng Tab X / Max** <br>(13.3 inch khổng lồ) | **Dòng Note 5C / 4C** <br>(10.3 inch đa năng) | - **13.3 inch:** Màn to bằng tờ A4 thực tế, tích hợp công nghệ BSR siêu mượt để thay thế máy tính bảng/laptop.<br>- **10.3 inch:** Cân bằng giữa kích thước hiển thị và sự linh hoạt khi mang theo. | Cần không gian siêu lớn, xử lý Excel/Word nặng -> Dòng 13.3 inch. Cần linh hoạt mang đi làm, bỏ balo gọn nhẹ -> Dòng 10.3 inch. |
+
+# CÂU HỎI PHỤ TRONG HỘI THOẠI TƯ VẤN (Dùng khi khách hỏi thêm trong lúc đang tư vấn)
+LƯU Ý SỬ DỤNG: Các câu hỏi dưới đây thường xuất hiện TRONG KHI đang tư vấn một sản phẩm cụ thể.
+BẮT BUỘC đối chiếu với sản phẩm đang được tư vấn để trả lời trực tiếp cho sản phẩm đó,
+TUYỆT ĐỐI KHÔNG liệt kê toàn bộ danh sách nếu đã có anchor sản phẩm.
+
+## Câu hỏi: Dòng nào cài được app / Cài được CHPlay không?
+Trả lời: Chỉ dòng BOOX cài được ứng dụng từ Google Play (CHPlay), vì máy chạy hệ điều hành Android.
+Các dòng Kindle, Kobo, Savi KHÔNG hỗ trợ CHPlay.
+Lưu ý ngữ cảnh:
+- Nếu đang tư vấn sản phẩm Boox → nói luôn: "[Tên máy] cài được app qua CHPlay vì chạy Android."
+- Nếu đang tư vấn Kindle / Kobo / Savi → nói rõ: "Dòng [tên] không hỗ trợ CHPlay."
+
+## Câu hỏi: Máy có tải được ChatGPT không?
+Trả lời: Máy tải được ChatGPT nhưng CHỈ đăng nhập và sử dụng được trên các dòng chạy Android 15.
+Danh sách máy hỗ trợ đầy đủ ChatGPT (Android 15): Palma 2 Pro, Note Air 5 C, Go 10.3 Gen 2, Go 10.3 Gen 2 Lumi.
+Lưu ý ngữ cảnh:
+- Nếu đang tư vấn một trong 4 dòng trên → xác nhận ngay: "[Tên máy] dùng được ChatGPT."
+- Nếu đang tư vấn dòng khác → thông báo dòng đó không hỗ trợ ChatGPT đầy đủ,
+  gợi ý upgrade sang một trong 4 dòng trên nếu đây là nhu cầu quan trọng với khách.
+
+## Câu hỏi: Chế độ đèn nền / Đèn warm-cold / Front-light?
+Trả lời phân loại:
+- Có 2 chế độ đèn nền (warm + cold): Go 6, Savi 6S, Savi 6, Go 7, Go Color 7 Gen 2,
+  Go 10.3 Gen 2 Lumi, Note Air 5C, Tab X C, Paperwhite 5, Paperwhite 6,
+  Kobo Clara BW, Kobo Libra Color.
+- Có 1 chế độ đèn nền (chỉ cold): New Kindle 2024.
+- Không có đèn nền: Go 10.3 Gen 1, Go 10.3 Gen 2, Note Max.
+Lưu ý ngữ cảnh:
+- Nếu đang tư vấn sản phẩm cụ thể → tra bảng trên và trả lời trực tiếp cho sản phẩm đó,
+  TUYỆT ĐỐI KHÔNG liệt kê toàn bộ danh sách.
+- Ví dụ: "Go 10.3 Gen 2 Lumi có 2 chế độ đèn nền warm và cold, đọc ban đêm rất thoải mái."
+- Ví dụ: "Go 10.3 Gen 2 (bản thường) không có đèn nền. Nếu anh/chị hay đọc buổi tối,
+  em khuyên nên lên bản Lumi thêm 1 triệu ạ."
+
+## Câu hỏi: Máy có chống nước không?
+Trả lời phân loại:
+- Không chống nước: Toàn bộ dòng Boox đều KHÔNG có khả năng chống nước.
+- Có chống nước: Kindle Paperwhite 5, Kindle Paperwhite 6.
+- Các dòng khác (Kobo, Savi): Không có dữ liệu chính xác.
+  → Trả lời: "Dạ em chưa có thông tin chính xác về vấn đề này,
+  anh/chị vui lòng liên hệ hotline 0856 87 88 89 để được tư vấn thêm ạ."
+Lưu ý ngữ cảnh:
+- Nếu đang tư vấn Boox bất kỳ → nói rõ: "[Tên máy] không có khả năng chống nước.
+  Nếu anh/chị cần chống nước, dòng Kindle Paperwhite mới hỗ trợ tính năng này ạ."
+- Nếu đang tư vấn Paperwhite 5 / Paperwhite 6 → xác nhận: "Máy có chống nước ạ."

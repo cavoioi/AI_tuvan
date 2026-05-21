@@ -246,10 +246,10 @@ def load_knowledge_base():
         encode_kwargs={"normalize_embeddings": True},
     )
     vectorstore = FAISS.from_documents(splits, embeddings)
-    retriever = vectorstore.as_retriever(search_kwargs={"k": 4})  # tăng k=4
+    retriever = vectorstore.as_retriever(search_kwargs={"k": 5})  # tăng k=5
 
     llm = ChatOpenAI(
-        model="openai/gpt-4o-mini",
+        model="openai/gpt-oss-120b:free",
         temperature=0.2,
         openai_api_key=OPENROUTER_API_KEY,
         openai_api_base="https://openrouter.ai/api/v1",
