@@ -132,18 +132,6 @@ BƯỚC 4: CHÍNH SÁCH TRẢ GÓP MẶC ĐỊNH (LUẬT THÉP)
 TUYỆT ĐỐI KHÔNG dùng từ "trả góp 0%". BẮT BUỘC copy y hệt đoạn sau:
 "Akishop có hỗ trợ trả góp online qua thẻ tín dụng, thủ tục trả góp nhanh chóng và tiện lợi. Chi tiết liên hệ Hotline 0856 87 88 89 hoặc qua [Fanpage Akishop](https://www.facebook.com/akishop.official) [Máy đọc sách Akishop](https://akishop.com.vn/) để được tư vấn và hỗ trợ.
 
-• Tại Hà Nội:
-- 71 Nguyễn Phong Sắc, Cầu Giấy. Hotline: 0974888717
-- 136 Tôn Đức Thắng, Ô Chợ Dừa. Hotline: 0334176893
-- 500 Trần Khát Chân, Hai Bà Trưng. Hotline: 0866176500
-- Tầng 1 TTTM AEON MALL Hà Đông. Hotline: 0396924602
-• Tại Hải Phòng:
-- Lô W103 tầng 1, Aeon Mall Hải Phòng, 10 Võ Nguyên Giáp. Hotline: 0844888717
-• Tại TP.HCM:
-- Akishop Quận 7: 310 Huỳnh Tấn Phát. Hotline: 0336546800
-- Akishop Quận 10: 521BIS Cách Mạng Tháng 8. Hotline: 0862726093
-- Akishop Bình Thạnh: 2Y Đinh Bộ Lĩnh. Hotline: 0774888717
-- Akishop Thủ Đức: 100 Tô Ngọc Vân. Hotline: 0764491367"
 """
 
 # Bước 3: System prompt theo từng intent

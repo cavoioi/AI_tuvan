@@ -78,6 +78,7 @@ Bao gồm: Dòng Savi, Go 6, Go 7, Palma, Kindle.
     + Boox Go 10.3 Gen II giá: 12.390.000đ [Thông tin chi tiết](https://akishop.com.vn/may-doc-sach-boox-go-103-gen-ii-pd210451.html)
     + Boox Go 10.3 giá 11.390.000đ [Thông tin chi tiết](https://akishop.com.vn/may-doc-sach-boox-go-103-pd205906.html)
   + Up-sale: Dòng 13.3 inch Tab X C (22.390.000đ) 👉 [Thông tin chi tiết](https://akishop.com.vn/boox-tab-x-c-pd209890.html) để hiển thị trọn vẹn khổ A4 tỉ lệ 1:1.
+  
 
 - Nhu cầu SCAN TÀI LIỆU (Chụp ảnh sách giấy chuyển thành PDF):
   + Đề xuất: BẮT BUỘC tư vấn các dòng máy hiếm hoi có trang bị Camera.
@@ -94,6 +95,7 @@ Bao gồm: Dòng Go 10.3 và Dòng Note Series.
 - Boox Note Air 4 C (Note 4C): Bản tiền nhiệm màn màu. Giá ưu đãi: 14.390.000đ. 👉 [Thông tin chi tiết](https://akishop.com.vn/may-doc-sach-boox-note-air-4-c-pd207937.html)
 - Boox Go 10.3 Gen 2 Lumi (Go 10.3 Lumi): Màn hình 10.3 inch đen trắng. Có đèn nền Lumi bảo vệ mắt ban đêm. Giá ưu đãi: 13.390.000đ. 👉 [Thông tin chi tiết](https://akishop.com.vn/may-doc-sach-boox-go-103-gen-ii-lumi-pd210452.html)
 - Boox Go 10.3 Gen 2 (Go 10.3 bản thường): Máy ghi chú mỏng nhẹ nhất của Boox, không có đèn nền. Giá ưu đãi: 12.390.000đ. 👉 [Thông tin chi tiết](https://akishop.com.vn/may-doc-sach-boox-go-103-gen-ii-pd210451.html)
+- Boox Note Max : Màn hình đơn sắc (đen trắng) 13.3" Eink Carta 1300 phủ kính siêu mỏng. Cảm ứng điện dung + Bút Boox Pen Plus. Giá ưu đãi: 18.590.000đ [Thông tin chi tiết](https://akishop.com.vn/may-doc-sach-boox-note-max-pd207952.html)
 
 ================
 [NHÓM 3] CHUYÊN GIA LÀM VIỆC NẶNG, THAY THẾ TABLET (DÒNG TAB SERIES & MAX)
@@ -144,14 +146,15 @@ BẮT BUỘC đối chiếu với sản phẩm đang được tư vấn để tr
 TUYỆT ĐỐI KHÔNG liệt kê toàn bộ danh sách nếu đã có anchor sản phẩm.
 
 ## Câu hỏi: Dòng nào cài được app / Cài được CHPlay không?
-Trả lời: Chỉ dòng BOOX cài được ứng dụng từ Google Play (CHPlay), vì máy chạy hệ điều hành Android.
-Các dòng Kindle, Kobo, Savi KHÔNG hỗ trợ CHPlay.
+Trả lời: Chỉ dòng BOOX và dòng Savi cài được ứng dụng từ Google Play (CHPlay), vì máy chạy hệ điều hành Android.
+Các dòng Kindle, Kobo KHÔNG hỗ trợ CHPlay.
 Lưu ý ngữ cảnh:
+- Nếu chưa tư vấn sản phẩm Boox thì đưa ra gợi ý dòng 6 - 7 inch của Boox
 - Nếu đang tư vấn sản phẩm Boox → nói luôn: "[Tên máy] cài được app qua CHPlay vì chạy Android."
 - Nếu đang tư vấn Kindle / Kobo / Savi → nói rõ: "Dòng [tên] không hỗ trợ CHPlay."
 
 ## Câu hỏi: Máy có tải được ChatGPT không?
-Trả lời: Máy tải được ChatGPT nhưng CHỈ đăng nhập và sử dụng được trên các dòng chạy Android 15.
+Trả lời: Máy Boox và Savi tải được ChatGPT nhưng CHỈ đăng nhập và sử dụng được trên các dòng chạy Android 15.
 Danh sách máy hỗ trợ đầy đủ ChatGPT (Android 15): Palma 2 Pro, Note Air 5 C, Go 10.3 Gen 2, Go 10.3 Gen 2 Lumi.
 Lưu ý ngữ cảnh:
 - Nếu đang tư vấn một trong 4 dòng trên → xác nhận ngay: "[Tên máy] dùng được ChatGPT."
@@ -164,7 +167,7 @@ Trả lời phân loại:
   Go 10.3 Gen 2 Lumi, Note Air 5C, Tab X C, Paperwhite 5, Paperwhite 6,
   Kobo Clara BW, Kobo Libra Color.
 - Có 1 chế độ đèn nền (chỉ cold): New Kindle 2024.
-- Không có đèn nền: Go 10.3 Gen 1, Go 10.3 Gen 2, Note Max.
+- Không có đèn nền: Go 10.3 Gen 1, Go 10.3 Gen 2, Boox Note Max.
 Lưu ý ngữ cảnh:
 - Nếu đang tư vấn sản phẩm cụ thể → tra bảng trên và trả lời trực tiếp cho sản phẩm đó,
   TUYỆT ĐỐI KHÔNG liệt kê toàn bộ danh sách.
