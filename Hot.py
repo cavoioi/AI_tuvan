@@ -237,7 +237,7 @@ def load_knowledge_base():
     retriever = vectorstore.as_retriever(search_kwargs={"k": 5})  # tăng k=5
 
     llm = ChatOpenAI(
-        model="openai/gpt-oss-120b:free",
+        model="meta-llama/llama-3.3-70b-instruct:free",
         temperature=0.2,
         openai_api_key=OPENROUTER_API_KEY,
         openai_api_base="https://openrouter.ai/api/v1",
